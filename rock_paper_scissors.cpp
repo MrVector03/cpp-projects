@@ -2,10 +2,6 @@
 #include <random>
 using namespace std;
 
-void rps(string decision){
-
-}
-
 /*
 This function decides who won a round 
 
